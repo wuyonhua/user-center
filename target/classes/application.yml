@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.41.66:3306/user_center
+    hikari:
+      username: root
+      password: root
+      # >= 6.x com.mysql.cj.jdbc.Driver
+      # <= 5.x com.mysql.jdbc.Driver
+      driver-class-name: com.mysql.cj.jdbc.Driver
+  cloud:
+    nacos:
+      discovery:
+        # 指定nacos server的地址
+        server-addr: localhost:8848
+        # 指定namespace
+        # namespace: ff785bbf-2022-48a9-8883-0e00e75688ac
+        # 指定集群名称
+        cluster-name: BJ
+        #metadata:
+          # 自己这个实例的版本
+          #version: v1
+          # 允许调用的提供者版本
+          #target-version: v1
+  application:
+    # 服务名称尽量用 - ，不要用 _ ，不要用特殊符号
+    name: user-center
+server:
+  port: 8081
