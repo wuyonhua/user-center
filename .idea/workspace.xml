@@ -65,6 +65,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1c1sqUCcksQsFmAtYYeiGmt3Z04" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -153,12 +154,24 @@
       <workItem from="1590218334789" duration="4055000" />
       <workItem from="1590330576016" duration="2421000" />
       <workItem from="1590396951571" duration="1268000" />
-      <workItem from="1590484348322" duration="53000" />
+      <workItem from="1590484348322" duration="489000" />
     </task>
+    <task id="LOCAL-00001" summary="Spring Cloud Alibaba 用户中心微服务">
+      <created>1590484538637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590484538637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring Cloud Alibaba 用户中心微服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Cloud Alibaba 用户中心微服务" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="74" key="#Notifications" timestamp="1589707642954">
@@ -169,10 +182,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="74" width="1155" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589986254532" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590484446171">
+    <state x="222" y="9" key="CommitChangelistDialog2" timestamp="1590484537577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590484446171" />
+    <state x="222" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590484537577" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590484906315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590484906315" />
+    <state x="634" y="308" width="273" height="207" key="Github.ShareDialog" timestamp="1590484632262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="308" width="273" height="207" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1590484632262" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1590427217119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -221,14 +242,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590427217119" />
-    <state x="272" y="58" key="SettingsEditor" timestamp="1590484412732">
+    <state x="272" y="58" key="SettingsEditor" timestamp="1590484880918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590484412732" />
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590484880918" />
     <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1589721481465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1589721481465" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1590484544740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590484544740" />
     <state x="499" y="221" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1589725840595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
